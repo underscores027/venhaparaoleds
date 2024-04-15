@@ -214,7 +214,8 @@ Neste projeto, o código foi baseado na documentação oficial do Quasar [Docume
 
 Isso inclui a estrutura do projeto, a organização dos arquivos, a utilização de componentes Quasar, a implementação de rotas e a gestão de estado.
 ### Qualidade de  [Código com SonarQube](https://about.sonarcloud.io/)
-Não foi implementado.
+![image](https://github.com/underscores027/venhaparaoleds/assets/116377043/005fea6a-de10-4702-b1c3-df5916295a16)
+
 ### Implementar testes unitários
 Não foi implementado.
 ### Implementar testes comportamentais
