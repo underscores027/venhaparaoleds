@@ -1,0 +1,492 @@
+{
+  "candidatos": [
+    {
+      "name": "Lindsey Craft",
+      "dataNascimento": "19/05/1976",
+      "cpf": "182.845.084-34",
+      "profissoes": [
+        "carpinteiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Devin Gilmore",
+      "dataNascimento": "20/12/1979",
+      "cpf": "679.734.709-14",
+      "profissoes": [
+        "marceneiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Miranda Stokes",
+      "dataNascimento": "21/03/1955",
+      "cpf": "551.235.392-12",
+      "profissoes": [
+        "carpinteiro",
+        "assistente administrativo",
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Kay Elliott",
+      "dataNascimento": "03/09/1979",
+      "cpf": "423.976.557-33",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Alisha Dunn",
+      "dataNascimento": "23/09/1970",
+      "cpf": "116.964.794-53",
+      "profissoes": [
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Myron Blanchard",
+      "dataNascimento": "24/05/1969",
+      "cpf": "700.587.955-96",
+      "profissoes": [
+        "carpinteiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Katelyn Ellis",
+      "dataNascimento": "11/01/1977",
+      "cpf": "395.634.184-22",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Dusty Rowe",
+      "dataNascimento": "28/02/1975",
+      "cpf": "418.745.710-22",
+      "profissoes": [
+        "carpinteiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Erin Stafford",
+      "dataNascimento": "06/04/1981",
+      "cpf": "313.500.572-52",
+      "profissoes": [
+        "professor de matemática",
+        "assistente administrativo"
+      ]
+    },
+    {
+      "name": "Juanita Brewer",
+      "dataNascimento": "12/12/1961",
+      "cpf": "337.012.639-30",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Greg Hahn",
+      "dataNascimento": "31/01/1972",
+      "cpf": "517.268.974-46",
+      "profissoes": [
+        "carpinteiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Sean Wyatt",
+      "dataNascimento": "02/01/1967",
+      "cpf": "883.407.615-22",
+      "profissoes": [
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Veronica Nielsen",
+      "dataNascimento": "30/11/1978",
+      "cpf": "797.615.931-74",
+      "profissoes": [
+        "carpinteiro",
+        "marceneiro"
+      ]
+    },
+    {
+      "name": "Cassandra Lindsay",
+      "dataNascimento": "20/09/1960",
+      "cpf": "090.134.758-22",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Sara Kidd",
+      "dataNascimento": "05/10/1972",
+      "cpf": "618.943.864-77",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Trey Reilly",
+      "dataNascimento": "01/05/1960",
+      "cpf": "837.485.811-96",
+      "profissoes": [
+        "marceneiro"
+      ]
+    },
+    {
+      "name": "Lacey Murray",
+      "dataNascimento": "26/04/1956",
+      "cpf": "190.766.111-94",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Paul Kemp",
+      "dataNascimento": "18/06/1972",
+      "cpf": "027.361.441-83",
+      "profissoes": [
+        "assistente administrativo"
+      ]
+    },
+    {
+      "name": "Margaret Jennings",
+      "dataNascimento": "18/01/1978",
+      "cpf": "695.578.949-33",
+      "profissoes": [
+        "assistente administrativo"
+      ]
+    },
+    {
+      "name": "Mickey Stuart",
+      "dataNascimento": "12/12/1956",
+      "cpf": "172.373.124-92",
+      "profissoes": [
+        "assistente administrativo"
+      ]
+    },
+    {
+      "name": "Kendra Moss",
+      "dataNascimento": "02/07/1967",
+      "cpf": "222.781.406-72",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Pete Moon",
+      "dataNascimento": "27/06/1969",
+      "cpf": "757.566.675-68",
+      "profissoes": [
+        "marceneiro",
+        "assistente administrativo"
+      ]
+    },
+    {
+      "name": "Jimmy Hoffman",
+      "dataNascimento": "07/03/1961",
+      "cpf": "262.380.297-02",
+      "profissoes": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "name": "Lindsay Richardson",
+      "dataNascimento": "19/07/1967",
+      "cpf": "452.835.335-20",
+      "profissoes": [
+        "marceneiro"
+      ]
+    },
+    {
+      "name": "Dillon Day",
+      "dataNascimento": "24/01/1961",
+      "cpf": "410.333.815-24",
+      "profissoes": [
+        "assistente administrativo"
+      ]
+    },
+    {
+      "name": "Larry Collins",
+      "dataNascimento": "14/01/1959",
+      "cpf": "048.447.038-29",
+      "profissoes": [
+        "carpinteiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "name": "Alex Glass",
+      "dataNascimento": "22/11/1959",
+      "cpf": "281.298.795-46",
+      "profissoes": [
+        "carpinteiro",
+        "professor de matemática"
+      ]
+    }
+  ],
+  "concursos": [
+    {
+      "orgao": "SEDU",
+      "edital": "9/2016",
+      "codigoConcurso": "61828450843",
+      "vagas": [
+        "carpinteiro",
+        "analista de sistemas",
+        "marceneiro"
+      ]
+    },
+    {
+      "orgao": "SETADES",
+      "edital": "17/2016",
+      "codigoConcurso": "66797347091",
+      "vagas": [
+        "carpinteiro",
+        "assistente administrativo"
+      ]
+    },
+    {
+      "orgao": "IASES",
+      "edital": "11/2017",
+      "codigoConcurso": "56551235392",
+      "vagas": [
+        "carpinteiro",
+        "analista de sistemas"
+      ]
+    },
+    {
+      "orgao": "IASES",
+      "edital": "14/2016",
+      "codigoConcurso": "74078423976",
+      "vagas": [
+        "professor de matemática"
+      ]
+    },
+    {
+      "orgao": "SEJUS",
+      "edital": "12/2016",
+      "codigoConcurso": "11901116964",
+      "vagas": [
+        "professor de matemática"
+      ]
+    },
+    {
+      "orgao": "SETADES",
+      "edital": "1/2016",
+      "codigoConcurso": "13749470058",
+      "vagas": [
+        "inspetor penitenciário",
+        "estagiário"
+      ]
+    },
+    {
+      "orgao": "SECULT",
+      "edital": "8/2016",
+      "codigoConcurso": "24704233956",
+      "vagas": [
+        "carpinteiro",
+        "assistente administrativo"
+      ]
+    },
+    {
+      "orgao": "PRODEST",
+      "edital": "5/2017",
+      "codigoConcurso": "48640418745",
+      "vagas": [
+        "carpinteiro",
+        "marceneiro"
+      ]
+    },
+    {
+      "orgao": "PRODEST",
+      "edital": "4/2016",
+      "codigoConcurso": "44393135005",
+      "vagas": [
+        "analista de sistemas"
+      ]
+    },
+    {
+      "orgao": "SEJUS",
+      "edital": "14/2017",
+      "codigoConcurso": "07104337012",
+      "vagas": [
+        "professor de matemática"
+      ]
+    },
+    {
+      "orgao": "IASES",
+      "edital": "1/2017",
+      "codigoConcurso": "50459651726",
+      "vagas": [
+        "carpinteiro",
+        "estagiário"
+      ]
+    },
+    {
+      "orgao": "SESA",
+      "edital": "12/2016",
+      "codigoConcurso": "94136151883",
+      "vagas": [
+        "analista de sistemas"
+      ]
+    },
+    {
+      "orgao": "SEDU",
+      "edital": "7/2016",
+      "codigoConcurso": "22410712731",
+      "vagas": [
+        "marceneiro",
+        "analista de sistemas"
+      ]
+    },
+    {
+      "orgao": "SESA",
+      "edital": "16/2016",
+      "codigoConcurso": "17475471126",
+      "vagas": [
+        "carpinteiro",
+        "inspetor penitenciário",
+        "estagiário"
+      ]
+    },
+    {
+      "orgao": "SECULT",
+      "edital": "19/2017",
+      "codigoConcurso": "22439889461",
+      "vagas": [
+        "marceneiro",
+        "analista de sistemas",
+        "professor de matemática"
+      ]
+    },
+    {
+      "orgao": "SECTI",
+      "edital": "3/2016",
+      "codigoConcurso": "65976548374",
+      "vagas": [
+        "marceneiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "orgao": "SECULT",
+      "edital": "9/2017",
+      "codigoConcurso": "92131819076",
+      "vagas": [
+        "estagiário"
+      ]
+    },
+    {
+      "orgao": "SECTI",
+      "edital": "4/2017",
+      "codigoConcurso": "50302450273",
+      "vagas": [
+        "inspetor penitenciário",
+        "analista de sistemas"
+      ]
+    },
+    {
+      "orgao": "SECULT",
+      "edital": "14/2017",
+      "codigoConcurso": "58464569557",
+      "vagas": [
+        "marceneiro"
+      ]
+    },
+    {
+      "orgao": "SECTI",
+      "edital": "15/2017",
+      "codigoConcurso": "77718172373",
+      "vagas": [
+        "carpinteiro",
+        "marceneiro",
+        "assistente administrativo"
+      ]
+    },
+    {
+      "orgao": "IASES",
+      "edital": "13/2017",
+      "codigoConcurso": "56921222278",
+      "vagas": [
+        "analista de sistemas",
+        "estagiário"
+      ]
+    },
+    {
+      "orgao": "SEJUS",
+      "edital": "7/2016",
+      "codigoConcurso": "93898757566",
+      "vagas": [
+        "inspetor penitenciário",
+        "analista de sistemas",
+        "estagiário"
+      ]
+    },
+    {
+      "orgao": "SEDU",
+      "edital": "7/2017",
+      "codigoConcurso": "70224262380",
+      "vagas": [
+        "carpinteiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "orgao": "PRODEST",
+      "edital": "18/2017",
+      "codigoConcurso": "99452835335",
+      "vagas": [
+        "inspetor penitenciário",
+        "assistente administrativo"
+      ]
+    },
+    {
+      "orgao": "SECTI",
+      "edital": "12/2017",
+      "codigoConcurso": "24103338152",
+      "vagas": [
+        "marceneiro",
+        "professor de matemática"
+      ]
+    },
+    {
+      "orgao": "SEJUS",
+      "edital": "12/2017",
+      "codigoConcurso": "04844703829",
+      "vagas": [
+        "carpinteiro",
+        "inspetor penitenciário"
+      ]
+    },
+    {
+      "orgao": "PRODEST",
+      "edital": "6/2016",
+      "codigoConcurso": "13281298795",
+      "vagas": [
+        "carpinteiro"
+      ]
+    },
+    {
+      "orgao": "SECULT",
+      "edital": "4/2016",
+      "codigoConcurso": "67807680420",
+      "vagas": [
+        "estagiário"
+      ]
+    },
+    {
+      "orgao": "SETADES",
+      "edital": "10/2017",
+      "codigoConcurso": "67933783178",
+      "vagas": [
+        "carpinteiro",
+        "inspetor penitenciário",
+        "professor de matemática"
+      ]
+    }
+  ]
+}
