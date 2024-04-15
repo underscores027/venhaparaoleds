@@ -70,7 +70,7 @@ children: [
 ```
 ### db.json
 
-**local**: `projetoLEDS3\db.json`
+**Local**: `projetoLEDS3\db.json`
 
 O arquivo  `db.json`  é um arquivo de dados em formato JSON que atua como um banco de dados local para uma aplicação.
 
@@ -90,14 +90,14 @@ Cada objeto no arquivo `db.json` representa um recurso que pode ser acessado atr
 ```
 para que seja possível encontrar um candidato pelo seu CPF ou um concurso pelo codigo de concurso, basta usar essa diretiva ``` GET /posts?views_gt=9000```  essa lógica de URL foi utilizada nos métodos **getbycpf e getBycodigoConcurso** que estão na camada service, detalharei melhor posteriormente na **sessão 4** de implementação das funcionalidades.
 
-### services
+### Services
 **local**: `src\services\candidatos.js e src\services\concursos.js`
 
 Foi feita uma separação lógica na criação de cada serviço, elas estão localizadas na pasta services e são responsáveis por fornecer os serviços de API para os recursos de candidatos e concursos, respectivamente.
 Ambos os arquivos importam um composable chamado `useApi`, que carrega funções reutilizáveis.
 Então a pasta services basicamente pega os métodos que desejar dos composables. Essa estrutura permite que as operações da API sejam facilmente reutilizadas em todo o aplicativo, é muito eficaz para tarefas muito parecidas, que nesse caso, foi utilizado para o crud das tabelas e os gets necessários.
 
-#### exemplo de candidatos.js na pasta service:
+#### Exemplo de candidatos.js na pasta service:
 ```javascript
 import  useApi  from  'src/composables/UseApi'
 export  default  function  candidatosService () {
@@ -115,7 +115,7 @@ export  default  function  candidatosService () {
 
 ## 3.2 Implementação das funcionalidades
 
-### composables
+### Composables
 **local:** ```src\composables\UseApi.js```
 como já foi explicado na sessão anterior, o composable é uma pasta com um conjunto de funções reutilizáveis, tem uma relação direta com os services de candidatos e concursos e contém os métodos mais primordiais para a API. Então vamos falar das funcionalidades.
 
@@ -140,7 +140,7 @@ Todos esses métodos são assíncronos, o que significa que eles retornam uma pr
 ### Páginas principais
 **Local:**```src/pages/CandidatosPage.vue``` e ```src/pages/ConcursosPage.vue```
 
-### TABELAS
+### Tabelas
 Como já foi explicado na sessão **router**, existem 4 rotas filhas de ```mainLayout.vue```, essas páginas quem consomem as funcionalidades de composables e são responsáveis por carregar a tabela e os formulários. As páginas de candidatos e concursos têm uma estrutura e lógica muito semelhantes, o que facilita a manutenção e a compreensão do código.
 
 -   A página é composta por um componente  `q-table`  que exibe uma tabela de candidatos. Os dados para a tabela (`candidatos`) são obtidos do serviço  `candidatosService`  usando o método  `list`.
@@ -166,7 +166,7 @@ Aqui estão os principais métodos usados nessa página:
     
 -   `handleEditPost`: Este método é chamado quando o usuário clica no botão de editar de um candidato. Ele redireciona o usuário para o formulário de candidatos com os dados do candidato preenchidos.
 
-### FORMULARIOS
+### Formulários
 **Local:**```src/pages/formConcursos.vue``` e ```src/pages/formCandidatos.vue```
 
 O arquivo `formCandidatos.vue` é responsável por exibir o formulário para adicionar ou editar candidatos. Só é possível acessa-lo se você passar primeiro nas tabelas. O formulário contém os campos necessários para preencher cada uma das diferentes tabelas, por exemplo, em formCandidatos, existe um campo para preencher cpf, data de nascimento e nome. Quando o usuário vai editar um campo, seus dados originais se mantém, ele tem que apagar o dado e escrever o que deseja editar, ele pode cancelar ou salvar.
